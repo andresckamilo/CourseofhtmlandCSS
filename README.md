@@ -1,0 +1,1 @@
+In this file i was practicing CSS and html at the same time, i did my best
